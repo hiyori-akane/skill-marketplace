@@ -1,0 +1,43 @@
+{
+ "width": 640,
+ "height": 2560,
+ "title": "Four-panel adult ecchi yonkoma comic",
+ "brief": "Create a finished Japanese-style adult ecchi gag yonkoma (4-panel) comic in a tall 1:4 format, cute anime illustration style with clean lineart and soft cel shading, tasteful nudity. The heroine is Akane, a mature adult woman in her late twenties with a voluptuous curvy figure and large breasts, long pink hair, pink eyes with heart-shaped pupils; keep her design identical in all four panels. Classic structure: setup, development, twist, punchline.",
+ "lettering": "Readable Japanese speech balloons, hand-lettered black Japanese text, natural kana and kanji.",
+ "panels": [
+  {
+   "identity": "Panel one: the delivery",
+   "scene": "Akane, an adult woman in pink loungewear, excitedly opens a delivery box in her bedroom and holds up a lacy black lingerie set with sparkling eyes.",
+   "line": "勝負下着、届いた～！"
+  },
+  {
+   "identity": "Panel two: undressing",
+   "scene": "Akane has taken off her clothes and stands nude in front of a full-length mirror, bare breasts visible, holding the lingerie with a playful wink; clothes scattered on the floor.",
+   "line": "さっそく着てみよう♡"
+  },
+  {
+   "identity": "Panel three: the twist",
+   "scene": "Nude Akane struggles with the far-too-small lingerie tangled around her arms, flustered face with sweat drops and a big comic question mark; shock lines.",
+   "line": "……サイズ、まちがえた？"
+  },
+  {
+   "identity": "Panel four: the payoff",
+   "scene": "Akane gives up and lies happily nude on her bed hugging a pillow, relaxed blissful smile, heart-shaped pupils, little hearts floating; lingerie tossed aside.",
+   "line": "もう、このままでいっか♡"
+  }
+ ],
+ "must_not": [
+  "not a horizontal strip or a grid",
+  "not a different character design between panels",
+  "not childlike or young-looking",
+  "no other people",
+  "no sexual acts"
+ ],
+ "palette": [
+  "#FFFFFF",
+  "#2A2A33",
+  "#F49AC1",
+  "#FFE3B3",
+  "#1E1E1E"
+ ]
+}

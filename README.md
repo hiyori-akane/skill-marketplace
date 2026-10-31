@@ -12,6 +12,7 @@ Claude Code / Copilot CLI / Codex CLI / OpenCode に対応した Agent Skills �
 | [minimax-h3-prompt-craft](./plugins/minimax-h3-prompt-craft/) | MiniMax H3（音声付き動画生成モデル）向けのプロンプトを新規作成・改良するスキル |
 | [wan22-prompt-craft](./plugins/wan22-prompt-craft/) | Wan2.2（Alibaba製オープンソース動画/画像生成モデル）向けのプロンプトを新規作成・修正・改善するスキル |
 | [sdxl-original-character-prompt-craft](./plugins/sdxl-original-character-prompt-craft/) | 特定のオリジナルキャラクター向けにSDXL用プロンプト（ポジティブ＋ネガティブ）を生成・改良するスキル |
+| [moss-image-craft](./plugins/moss-image-craft/) | MOSS-Image（OpenMOSS の文字を描ける 5B text-to-image）を Mac で動かし、セリフ入りの4コマ・8コマ漫画、文字入りポスター、OGP・サムネイル、成人向けイラストまでを作るスキル。mflux・moss-image-mlx・ComfyUI の3通りの動かし方、漫画とバナーの JSON プロンプト生成、実画像のはめ込み、既知の不具合（長いプロンプトで真っ黒・文字抜け）の直し方を含む |
 
 ## インストール方法
 

@@ -42,6 +42,12 @@
       "source": "./plugins/sdxl-original-character-prompt-craft",
       "category": "creative",
       "description": "特定のオリジナルキャラクター向けにSDXL用プロンプト（ポジティブ＋ネガティブ）を生成・改良するスキル"
+    },
+    {
+      "name": "moss-image-craft",
+      "source": "./plugins/moss-image-craft",
+      "category": "creative",
+      "description": "MOSS-Image（OpenMOSS の文字を描ける 5B text-to-image）を Mac で動かし、セリフ入りの4コマ・8コマ漫画、文字入りポスター、OGP・サムネイル、成人向けイラストまでを作るスキル。mflux・moss-image-mlx・ComfyUI の3通りの動かし方、漫画とバナーの JSON プロンプト生成、実画像のはめ込み、既知の不具合（長いプロンプトで真っ黒・文字抜け）の直し方を含む"
     }
   ]
 }

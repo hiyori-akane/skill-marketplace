@@ -1,0 +1,76 @@
+{
+ "width": 1280,
+ "height": 672,
+ "summary": "A viral eye-catching blog thumbnail banner in Japanese light novel cover illustration style, ultra high quality, crisp detailed anime art, vivid pink and yellow pop colors, radial speed lines and burst background, charming amazed expression, clean composition with big readable Japanese text on the left, one large empty white photo frame on the lower left, and the shocked pink-haired girl on the right.",
+ "texts": [
+  {
+   "text": "もう漫画家いらない！？",
+   "caption": "huge extra-bold Japanese headline that reads exactly もう漫画家いらない！？ (eleven characters: も う 漫 画 家 い ら な い ！ ？, do not drop ら), white letters with thick pink and black outline, manga impact style",
+   "bbox": [
+    -326,
+    -630,
+    -216,
+    60
+   ]
+  },
+  {
+   "text": "プロンプト1発でセリフ入りNSFW4コマ完成！",
+   "caption": "bold yellow Japanese subtitle with black outline on a hot pink ribbon banner",
+   "bbox": [
+    -206,
+    -630,
+    -146,
+    60
+   ]
+  },
+  {
+   "text": "エロ可愛い",
+   "caption": "white bold Japanese text in a red rounded pill badge",
+   "bbox": [
+    -136,
+    -620,
+    -80,
+    -420
+   ]
+  },
+  {
+   "text": "LoRA不要",
+   "caption": "white bold text in a purple rounded pill badge",
+   "bbox": [
+    -136,
+    -405,
+    -80,
+    -225
+   ]
+  },
+  {
+   "text": "Macだけで動く",
+   "caption": "white bold Japanese text in a black rounded pill badge",
+   "bbox": [
+    -136,
+    -210,
+    -80,
+    30
+   ]
+  }
+ ],
+ "objects": [
+  {
+   "caption": "a cute anime girl in light novel illustration style, pleasantly surprised and amazed, long flowing pink hair, big sparkling pink eyes wide open, small open mouth in a soft gasp, one hand lightly touching her cheek, light blush, a few sparkles around her, upper body, slender young adult woman in a cute white blouse",
+   "bbox": [
+    -336,
+    60,
+    336,
+    640
+   ]
+  }
+ ],
+ "frames": [
+  [
+   -60,
+   -616,
+   300,
+   24
+  ]
+ ]
+}

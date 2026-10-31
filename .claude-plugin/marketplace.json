@@ -1,0 +1,89 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "skill-marketplace",
+  "description": "Agent Skills for Claude Code and other AI coding tools",
+  "owner": {
+    "name": "hiyori-akane",
+    "url": "https://github.com/hiyori-akane"
+  },
+  "plugins": [
+    {
+      "name": "example-skill",
+      "source": "./plugins/example-skill",
+      "category": "development",
+      "description": "An example skill demonstrating how to create and format Agent Skills"
+    },
+    {
+      "name": "agy-review",
+      "source": "./plugins/agy-review",
+      "category": "development",
+      "description": "agy (Antigravity CLI) を使って変更ファイルのコードレビューを実行するスキル"
+    },
+    {
+      "name": "anima-prompt-craft",
+      "source": "./plugins/anima-prompt-craft",
+      "category": "creative",
+      "description": "Anima（CircleStone Labs × Comfy Org の2Bアニメ特化 text-to-image モデル）向けのプロンプトを新規作成・改良・診断するスキル"
+    },
+    {
+      "name": "minimax-h3-prompt-craft",
+      "source": "./plugins/minimax-h3-prompt-craft",
+      "category": "creative",
+      "description": "MiniMax H3（音声付き動画生成モデル）向けのプロンプトを新規作成・改良するスキル"
+    },
+    {
+      "name": "wan22-prompt-craft",
+      "source": "./plugins/wan22-prompt-craft",
+      "category": "creative",
+      "description": "Wan2.2（Alibaba製オープンソース動画/画像生成モデル）向けのプロンプトを新規作成・修正・改善するスキル"
+    },
+    {
+      "name": "sdxl-original-character-prompt-craft",
+      "source": "./plugins/sdxl-original-character-prompt-craft",
+      "category": "creative",
+      "description": "特定のオリジナルキャラクター向けにSDXL用プロンプト（ポジティブ＋ネガティブ）を生成・改良するスキル"
+    },
+    {
+      "name": "ai-dev-orchestration",
+      "source": "./plugins/ai-dev-orchestration",
+      "category": "development",
+      "description": "複数プロジェクトのAI開発を、人間の処理量を上限にして回すオーケストレーションのスキル群"
+    },
+    {
+      "name": "explainer-report",
+      "source": "./plugins/explainer-report",
+      "category": "development",
+      "description": "AIが作った成果を、文章・Mermaid図・解説動画（標準かロング版）・字幕付きの画面録画（どちらも任意でずんだもんのナレーション）・スクショ（HTML/CSS の成果物なら試せる QR とリンク）で、人間が短時間で理解できる解説レポートにするスキル。出力先は gh（GitHub の Issue/PR）と Markdown。動画は任意で YouTube にアップロードし、タイトルや概要はAIが作る"
+    },
+    {
+      "name": "art-style-picker",
+      "source": "./plugins/art-style-picker",
+      "category": "creative",
+      "description": "AIイラスト（Anima / SDXL / Illustrious / NoobAI / waiANIMA）の画風を、Danbooruの画風タグからランダム提案→選ぶかスキップを繰り返すだけで決められる対話型スキル"
+    },
+    {
+      "name": "composition-picker",
+      "source": "./plugins/composition-picker",
+      "category": "creative",
+      "description": "AIイラスト（Anima / SDXL / Illustrious / NoobAI / waiANIMA）の構図を、Danbooruの構図・ポーズ系タグからランダム提案→選ぶかスキップを繰り返すだけで決められる対話型スキル"
+    },
+    {
+      "name": "character-look-picker",
+      "source": "./plugins/character-look-picker",
+      "category": "creative",
+      "description": "AIイラスト（Anima / SDXL / Illustrious / NoobAI / waiANIMA）で描く成人女性キャラの外見（髪色・髪型・目・表情・体型・肌・アクセント）を、Danbooruタグからランダム提案→選ぶかスキップを繰り返すだけで決められる対話型スキル"
+    },
+    {
+      "name": "outfit-picker",
+      "source": "./plugins/outfit-picker",
+      "category": "creative",
+      "description": "AIイラスト（Anima / SDXL / Illustrious / NoobAI / waiANIMA）で描く成人女性キャラの服装を、Danbooruの衣装タグからランダム提案→選ぶかスキップを繰り返すだけで決められる対話型スキル"
+    },
+    {
+      "name": "moss-image-craft",
+      "source": "./plugins/moss-image-craft",
+      "category": "creative",
+      "description": "MOSS-Image（OpenMOSS の文字を描ける 5B text-to-image）を Mac で動かし、セリフ入りの4コマ・8コマ漫画、文字入りポスター、OGP・サムネイル、成人向けイラストまでを作るスキル。mflux・moss-image-mlx・ComfyUI の3通りの動かし方、漫画とバナーの JSON プロンプト生成、実画像のはめ込み、既知の不具合（長いプロンプトで真っ黒・文字抜け）の直し方を含む"
+    }
+  ]
+}

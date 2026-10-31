@@ -1,0 +1,40 @@
+{
+ "width": 640,
+ "height": 2560,
+ "title": "Four-panel vertical yonkoma comic",
+ "brief": "Create a finished Japanese-style yonkoma (4-panel) gag comic in a tall 1:4 format, cute anime illustration style with clean lineart and soft cel shading. The heroine is Akane, an adult woman with long pink hair, pink eyes with heart-shaped pupils, wearing a white blouse and a pink apron; keep her design identical in all four panels. Classic structure: setup, development, twist, punchline.",
+ "lettering": "Readable Japanese speech balloons, hand-lettered black Japanese text, natural kana and kanji.",
+ "panels": [
+  {
+   "identity": "Panel one: the plan",
+   "scene": "Akane in her kitchen holds up a recipe card with sparkling eyes; flour bag, eggs and a mixing bowl on the counter; morning light.",
+   "line": "今日こそ完璧なケーキを焼くぞ！"
+  },
+  {
+   "identity": "Panel two: the struggle",
+   "scene": "Akane whisks furiously, flour cloud everywhere, cream on her cheek, the bowl tilting; comic sweat drops and motion lines.",
+   "line": "まぜまぜ…まぜまぜ…！"
+  },
+  {
+   "identity": "Panel three: the disaster",
+   "scene": "The oven door opens and a lopsided, puffed-up cake with a burnt top appears; Akane freezes in shock, smoke curls, dramatic shock lines.",
+   "line": "……あれ？なんで黒いの？"
+  },
+  {
+   "identity": "Panel four: the payoff",
+   "scene": "Akane happily eats the burnt cake at the table with a fork, heart-shaped pupils glowing, little hearts floating; warm cozy lighting.",
+   "line": "でも、愛の味がする！"
+  }
+ ],
+ "must_not": [
+  "not a horizontal strip or a grid",
+  "not a different character design between panels"
+ ],
+ "palette": [
+  "#FFFFFF",
+  "#2A2A33",
+  "#F49AC1",
+  "#FFE3B3",
+  "#8A5A3C"
+ ]
+}
